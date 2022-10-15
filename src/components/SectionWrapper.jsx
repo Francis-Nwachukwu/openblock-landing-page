@@ -43,7 +43,7 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assertUrl={assets.expo}
-              link="deployed nft marketplace rn"
+              link="https://expo.dev/@francisnwachukwu100/openblock?serviceType=classic&distribution=expo-go"
             />
           )}
         </div>
